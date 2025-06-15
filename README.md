@@ -18,6 +18,6 @@ Downloads:
    - EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll
    - EscapeFromTarkov_Data\Managed\UnityEngine.UI.dll
    - EscapeFromTarkov_Data\Managed\UnityEngine.UIModule.dll
-3. Add references to project and compile "Release" build.
+3. Add references to project.
 4. Resolve names for obfuscated methods if necessary (method_3, etc).
-5. Copy resulting .dll file from \bin\Release\ to \BepInEx\plugins\
+5. Compile "Release" build, copy resulting .dll file from \bin\Release\ to \BepInEx\plugins\
