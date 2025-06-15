@@ -1,4 +1,4 @@
-# ExpandedFpsLimit
+# MusicPlaysInHideout
 [Mod page.](https://hub.sp-tarkov.com/files/file/2891-music-plays-in-hideout)
 
 Downloads:
