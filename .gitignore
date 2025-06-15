@@ -1,6 +1,6 @@
 .vs
 .vscode
-dependencies/*.dll
+Dependencies/*.dll
 bin
 obj
 packages
