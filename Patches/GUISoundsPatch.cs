@@ -18,7 +18,7 @@ namespace Mugnum.TarkovMods.MusicPlaysInHideout.Patches
 		/// <returns> Target method. </returns>
 		protected override MethodBase GetTargetMethod()
 		{
-			return typeof(GUISounds).GetMethod(nameof(GUISounds.method_6));
+			return typeof(GUISounds).GetMethod(nameof(GUISounds.method_9));
 		}
 
 		/// <summary>
