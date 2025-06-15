@@ -43,7 +43,7 @@ namespace Mugnum.TarkovMods.MusicPlaysInHideout
 				ShowRangeAsPercent = true
 			};
 
-			RelativeVolume = Config.Bind(CommonSection, "Relative hideout volume", 1f,
+			RelativeVolume = Config.Bind(CommonSection, "Relative hideout volume", 0.8f,
 				new ConfigDescription("Hideout music volume, relative to main menu volume.",
 					new AcceptableValueRange<float>(0f, 1f),
 					percentageAttributes));
