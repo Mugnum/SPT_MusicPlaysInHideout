@@ -2,8 +2,8 @@
 [Mod page.](https://hub.sp-tarkov.com/files/file/2891-music-plays-in-hideout)
 
 Downloads:
-- [3.11.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases) (latest)
-- [3.10.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases/tag/1.0.0)
+- [For 3.11.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases) (latest)
+- [For 3.10.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases/tag/1.0.0)
 
 # Build instructions for new versions
 1. Clear existing assembly references.
