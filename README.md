@@ -1,6 +1,7 @@
 # ExpandedFpsLimit
 [Mod page.](https://hub.sp-tarkov.com/files/file/2891-music-plays-in-hideout) Game version: 3.10.5+.
 
+
 Downloads:
 - [3.11.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases) (latest)
 - [3.10.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases/tag/1.0.0)
