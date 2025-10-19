@@ -2,7 +2,8 @@
 [Mod page.](https://hub.sp-tarkov.com/files/file/2891-music-plays-in-hideout)
 
 Downloads:
-- [For 3.11.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases) (latest)
+- [For 4.0.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases) (latest)
+- [For 3.11.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases/tag/1.1.0)
 - [For 3.10.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases/tag/1.0.0)
 
 # Build instructions for new versions
@@ -19,5 +20,5 @@ Downloads:
    - EscapeFromTarkov_Data\Managed\UnityEngine.UI.dll
    - EscapeFromTarkov_Data\Managed\UnityEngine.UIModule.dll
 3. Add references to project and compile "Release" build.
-4. Resolve names for obfuscated methods if necessary (method_3, etc).
+4. Resolve names for obfuscated methods if necessary (method_9, etc).
 5. Copy resulting .dll file from \bin\Release\ to \BepInEx\plugins\
