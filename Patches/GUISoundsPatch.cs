@@ -1,7 +1,7 @@
-﻿using EFT.UI;
+﻿using DG.Tweening;
+using EFT.UI;
 using SPT.Reflection.Patching;
 using System.Reflection;
-using DG.Tweening;
 using UnityEngine;
 
 // ReSharper disable InconsistentNaming

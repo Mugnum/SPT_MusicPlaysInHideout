@@ -9,7 +9,7 @@ namespace Mugnum.TarkovMods.MusicPlaysInHideout
 	/// <summary>
 	/// Music plays in hideout mod.
 	/// </summary>
-	[BepInPlugin("Mugnum.MusicPlaysInHideout", "Music plays in hideout", "1.1.0")]
+	[BepInPlugin("com.mugnum.musicplaysinhideout", "Mugnum-MusicPlaysInHideout", "1.2.0")]
 	public class Plugin : BaseUnityPlugin
 	{
 		/// <summary>
