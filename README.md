@@ -1,5 +1,5 @@
 # MusicPlaysInHideout
-[Mod page.](https://hub.sp-tarkov.com/files/file/2891-music-plays-in-hideout)
+[Mod page.](https://forge.sp-tarkov.com/mod/2188/music-plays-in-hideout)
 
 Downloads:
 - [For 4.0.x](https://github.com/Mugnum/SPT_MusicPlaysInHideout/releases) (latest)
